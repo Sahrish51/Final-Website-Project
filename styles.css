@@ -18,4 +18,11 @@ body {
 	margin-left: auto;
 	padding-top: 0px;
 	border: thick dashed #5E2F00;
+	padding-right: 80px;
+	padding-bottom: 0px;
+	padding-left: 80px;
+}
+.wrapper .content p img {
+	padding-right: 20px;
+	padding-left: 20px;
 }
